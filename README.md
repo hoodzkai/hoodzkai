@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @hoodzkai
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning JavaScript and GD
-- 💞️ I’m looking to collaborate on games and sites
-- 😄 Pronouns: any <3
+### Boas vindas ao meu perfil :blue_heart
 
-<!---
-hoodzkai/hoodzkai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Kai!
+
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+@hoodzkai em todas as redes 
+
+(https://i.pinimg.com/originals/ae/3a/e6/ae3ae680278e9b9a98e59a1721f9a54c.gifl)
+
